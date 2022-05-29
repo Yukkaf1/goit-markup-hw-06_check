@@ -101,8 +101,8 @@
 <path d="M25.353 2.319v16.232h-17.314v-16.232h17.314zM25.353 0h-17.314c-1.36 0-2.473 1.043-2.473 2.319v16.232c0 1.275 1.113 2.319 2.473 2.319h17.314c1.36 0 2.473-1.043 2.473-2.319v-16.232c0-1.275-1.113-2.319-2.473-2.319z"></path>
 </symbol>
 
-<symbol id="icon-check1" viewBox="0 0 42 32">
-<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.263 15.205l-0.22-0.21-3.307 3.132 11.651 11.114 24.477-23.351-3.285-3.134-21.192 20.197-8.124-7.75z"></path>
+<symbol id="icon-check1" viewBox="0 0 34 32">
+<path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.4267" d="M8.442 16.537l-0.147-0.14-2.205 2.088 7.767 7.41 16.318-15.567-2.19-2.089-14.128 13.465-5.416-5.167z"></path>
 </symbol>
 
   </defs>
